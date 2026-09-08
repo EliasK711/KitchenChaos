@@ -48,14 +48,14 @@ Tracking milestone-by-milestone progress directly against the syllabus lectures:
 - [x] Asset Pipeline Setup & Volume-based Post-Processing
 - [x] Player Movement Logic (Vector normalization & framerate-independent rotation)
 - [x] Player Visuals & State-Driven Animator Setup (Walking/Idle transitions)
-- [ ] Cinemachine Virtual Camera Integration
-- [ ] New Input System Integration & Event-Driven Refactor
-- [ ] Custom Physics Collision & Raycast Detection
+- [x] Cinemachine Virtual Camera Integration
+- [x] New Input System Integration & Event-Driven Refactor
+- [x] Custom Physics Collision & Raycast Detection
 
 ### Phase 2: Interaction & Kitchen Objects
-- [ ] Clear Counter Architecture & Interaction Interface
-- [ ] C# Events for Interaction Triggers
-- [ ] Selected Counter Visual Highlighting (Singleton Pattern)
+- [x] Clear Counter Architecture & Interaction Interface
+- [x] C# Events for Interaction Triggers
+- [x] Selected Counter Visual Highlighting (Singleton Pattern)
 - [ ] Kitchen Object Data Models via ScriptableObjects
 - [ ] Object Pickup & Carry Handling via C# Interfaces (`IKitchenObjectParent`)
 - [ ] Container Counter (Spawning Mechanics)
