@@ -11,7 +11,7 @@
 
 ## 🎬 Gameplay & Mechanics Showcase
 
-https://github.com/user-attachments/assets/db457496-d635-4121-8e9a-c175a6e255e3
+https://github.com/user-attachments/assets/0cf651da-b7e3-4818-97d0-ee385ad1bc1e
 
 ---
 
