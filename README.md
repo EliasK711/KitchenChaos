@@ -56,9 +56,9 @@ Tracking milestone-by-milestone progress directly against the syllabus lectures:
 - [x] Clear Counter Architecture & Interaction Interface
 - [x] C# Events for Interaction Triggers
 - [x] Selected Counter Visual Highlighting (Singleton Pattern)
-- [ ] Kitchen Object Data Models via ScriptableObjects
-- [ ] Object Pickup & Carry Handling via C# Interfaces (`IKitchenObjectParent`)
-- [ ] Container Counter (Spawning Mechanics)
+- [x] Kitchen Object Data Models via ScriptableObjects
+- [x] Object Pickup & Carry Handling via C# Interfaces (`IKitchenObjectParent`)
+- [x] Container Counter (Spawning Mechanics)
 - [ ] Cutting Counter & Slicing Recipes (World Canvas Dynamic Progress Bars)
 - [ ] Camera Billboard LookAt Utility
 - [ ] Trash Counter (Object Lifecycle Destruction)
