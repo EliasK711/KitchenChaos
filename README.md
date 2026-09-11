@@ -59,9 +59,9 @@ Tracking milestone-by-milestone progress directly against the syllabus lectures:
 - [x] Kitchen Object Data Models via ScriptableObjects
 - [x] Object Pickup & Carry Handling via C# Interfaces (`IKitchenObjectParent`)
 - [x] Container Counter (Spawning Mechanics)
-- [ ] Cutting Counter & Slicing Recipes (World Canvas Dynamic Progress Bars)
-- [ ] Camera Billboard LookAt Utility
-- [ ] Trash Counter (Object Lifecycle Destruction)
+- [x] Cutting Counter & Slicing Recipes (World Canvas Dynamic Progress Bars)
+- [x] Camera Billboard LookAt Utility
+- [x] Trash Counter (Object Lifecycle Destruction)
 
 ### Phase 3: Advanced Cooking Mechanics & Delivery
 - [ ] Stove Counter FSM (Frying, Burning States & Timers)

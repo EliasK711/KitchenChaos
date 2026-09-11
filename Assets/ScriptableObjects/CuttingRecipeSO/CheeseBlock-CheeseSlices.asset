@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5092612487445b096a7a8b606ae36c, type: 3}
+  m_Name: CheeseBlock-CheeseSlices
+  m_EditorClassIdentifier: Assembly-CSharp::CuttingRecipeSO
+  input: {fileID: 11400000, guid: 9b8db58ca50024e6ea4a2647f7a988a4, type: 2}
+  output: {fileID: 11400000, guid: fb173619161854c4b88cc216a958e7df, type: 2}
+  cuttingProgressMax: 3
