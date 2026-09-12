@@ -87,3 +87,8 @@ Tracking milestone-by-milestone progress directly against the syllabus lectures:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/EliasK711/KitchenChaos.git](https://github.com/EliasK711/KitchenChaos.git)
+
+## 📄 License & Asset Disclaimer
+
+The source code in this repository is licensed under the [MIT License](LICENSE).  
+All 3D models, textures, animations, and audio assets belong to [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) and are used strictly for educational and portfolio demonstration purposes.
