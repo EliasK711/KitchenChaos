@@ -11,7 +11,7 @@
 
 ## 🎬 Gameplay & Mechanics Showcase
 
-https://github.com/user-attachments/assets/fd0c0e4d-6e1e-4efa-b610-063273f2176b
+https://github.com/user-attachments/assets/7ef2e8db-ac26-4f98-bb38-901fc187853b
 
 ---
 
@@ -64,8 +64,8 @@ Tracking milestone-by-milestone progress directly against the syllabus lectures:
 - [x] Trash Counter (Object Lifecycle Destruction)
 
 ### Phase 3: Advanced Cooking Mechanics & Delivery
-- [ ] Stove Counter FSM (Frying, Burning States & Timers)
-- [ ] Plates Counter & Multi-Ingredient Plate Assembly Logic
+- [x] Stove Counter FSM (Frying, Burning States & Timers)
+- [x] Plates Counter & Multi-Ingredient Plate Assembly Logic
 - [ ] Delivery Counter & Recipe Matching Algorithm
 - [ ] Custom Visual Enhancements via Shader Graph
 - [ ] Dynamic Delivery Order UI Spawner
